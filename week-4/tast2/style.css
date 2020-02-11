@@ -1,0 +1,14 @@
+#travel {
+    width:330px;
+
+}
+
+#travel legend {
+    text-align: center;
+    
+}
+
+#travel input[type="text"]{
+    float:right;
+    
+}
